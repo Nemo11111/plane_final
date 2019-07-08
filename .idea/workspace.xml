@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d36ab317-ce9a-48fe-9c1a-8db431ba8de7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/plane_final.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/plane-2019-0.1.0.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/plane_2019-0.1.0-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/player.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plane_2019.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plane_2019.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plane_2019.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plane_2019.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plane_env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -204,12 +184,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561628295049</updated>
-      <workItem from="1562572369612" duration="372000" />
+      <workItem from="1562572369612" duration="667000" />
     </task>
+    <task id="LOCAL-00001" summary="PyPI package">
+      <created>1562572916518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562572916518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372000" />
+    <option name="totallyTimeSpent" value="667000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,7 +239,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="PyPI package" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyPI package" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/623156772/pygame/image.py" />
