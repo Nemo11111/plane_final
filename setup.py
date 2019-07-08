@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'plane-2019'
+NAME = 'plane_2019'
 DESCRIPTION = '2019实训AI飞机大战'
 URL = 'https://github.com/Nemo11111/plane_final.git'
 EMAIL = '1085335714@gmail.com'
