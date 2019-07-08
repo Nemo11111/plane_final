@@ -18,7 +18,7 @@ URL = 'https://github.com/Nemo11111/plane_final.git'
 EMAIL = '1085335714@gmail.com'
 AUTHOR = 'CTRL'
 REQUIRES_PYTHON = '>=3.7.0'
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
